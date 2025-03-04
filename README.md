@@ -20,3 +20,7 @@ Backend: PostgreSQL, Sequelize ORM, Node.js, JWT (I actively worked on backend d
 
 🤝 Acknowledgments:
 Building and deploying this as a team was an incredible experience. Seeing it in action at Credenz was truly rewarding!
+
+🔗 GitHub Repositories:
+🔹 Backend: https://lnkd.in/dKeCWq2e 
+🔹 Frontend: https://lnkd.in/dHBaVpVs
